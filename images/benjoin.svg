@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title">
+  <title id="title">Benjoin</title>
+  <rect width="600" height="360" fill="#e8ecdf"/>
+  <path d="M0 292h600v68H0z" fill="#c9d5bd"/>
+  <path d="M300 300c-5-73 2-122 0-190m0 80-94-60m96 40 95-72m-85 67-35-82m40 73 66-91" fill="none" stroke="#795642" stroke-linecap="round" stroke-width="20"/>
+  <g fill="#607f4d">
+    <circle cx="200" cy="130" r="52"/><circle cx="244" cy="91" r="56"/>
+    <circle cx="310" cy="78" r="59"/><circle cx="377" cy="102" r="58"/>
+    <circle cx="425" cy="145" r="51"/><circle cx="218" cy="176" r="49"/>
+    <circle cx="290" cy="148" r="61"/><circle cx="368" cy="159" r="60"/>
+  </g>
+  <g fill="#83a163">
+    <circle cx="200" cy="130" r="29"/><circle cx="244" cy="91" r="30"/>
+    <circle cx="310" cy="78" r="32"/><circle cx="377" cy="102" r="30"/>
+    <circle cx="425" cy="145" r="28"/><circle cx="218" cy="176" r="27"/>
+    <circle cx="290" cy="148" r="31"/><circle cx="368" cy="159" r="30"/>
+  </g>
+  <path d="M110 300h380" stroke="#9eaa8e" stroke-width="3"/>
+</svg>

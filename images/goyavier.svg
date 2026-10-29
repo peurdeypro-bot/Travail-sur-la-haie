@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title">
+  <title id="title">Goyavier avec ses fruits</title>
+  <rect width="600" height="360" fill="#e8ecdf"/><path d="M0 292h600v68H0z" fill="#c9d5bd"/>
+  <path d="M300 296V142m0 103-91-61m91 38 93-77m-90 47-31-67m30 69 60-72" fill="none" stroke="#795642" stroke-width="14" stroke-linecap="round"/>
+  <g fill="#568050"><ellipse cx="202" cy="174" rx="49" ry="23" transform="rotate(24 202 174)"/><ellipse cx="394" cy="143" rx="48" ry="23" transform="rotate(-32 394 143)"/><ellipse cx="271" cy="129" rx="43" ry="21" transform="rotate(-70 271 129)"/><ellipse cx="358" cy="195" rx="47" ry="22" transform="rotate(25 358 195)"/><ellipse cx="239" cy="227" rx="43" ry="20"/></g>
+  <g fill="#d9a95d" stroke="#a9783f" stroke-width="2"><circle cx="326" cy="181" r="17"/><circle cx="388" cy="218" r="16"/><circle cx="260" cy="197" r="15"/></g>
+  <g fill="#8b9b58"><path d="M321 164l-8-13 13 5 7-11 2 15z"/><path d="M384 202l-7-13 12 5 8-10 1 15z"/><path d="M256 182l-8-12 13 4 7-9 2 14z"/></g>
+  <path d="M110 300h380" stroke="#9eaa8e" stroke-width="3"/>
+</svg>

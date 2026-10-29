@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title">
+  <title id="title">Bois de Judas avec ses fruits</title>
+  <rect width="600" height="360" fill="#e8ecdf"/><path d="M0 292h600v68H0z" fill="#c9d5bd"/>
+  <path d="M300 296V181m0 84-82-48m82 22 82-64m-79 33-24-46m24 49 51-53" fill="none" stroke="#78533d" stroke-width="12" stroke-linecap="round"/>
+  <g fill="#547c50"><ellipse cx="217" cy="220" rx="45" ry="25" transform="rotate(20 217 220)"/><ellipse cx="385" cy="196" rx="46" ry="25" transform="rotate(-27 385 196)"/><ellipse cx="277" cy="179" rx="40" ry="23" transform="rotate(-66 277 179)"/><ellipse cx="353" cy="252" rx="45" ry="24" transform="rotate(18 353 252)"/><ellipse cx="249" cy="265" rx="42" ry="23"/></g>
+  <g fill="#593e69"><circle cx="325" cy="195" r="10"/><circle cx="341" cy="204" r="10"/><circle cx="355" cy="195" r="10"/><circle cx="338" cy="184" r="10"/><circle cx="325" cy="220" r="9"/></g>
+  <path d="M110 300h380" stroke="#9eaa8e" stroke-width="3"/>
+</svg>

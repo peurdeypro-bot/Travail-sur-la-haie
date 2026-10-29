@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title">
+  <title id="title">Géranium rosat fleuri</title>
+  <rect width="600" height="360" fill="#e8ecdf"/><path d="M0 292h600v68H0z" fill="#c9d5bd"/>
+  <path d="M300 296V185m0 84-76-45m76 24 78-64m-76 37-21-52m20 53 50-57" fill="none" stroke="#668255" stroke-width="10" stroke-linecap="round"/>
+  <g fill="#719361" stroke="#52734a" stroke-width="2"><circle cx="222" cy="221" r="34"/><circle cx="380" cy="190" r="35"/><circle cx="277" cy="179" r="33"/><circle cx="354" cy="252" r="34"/><circle cx="250" cy="265" r="32"/></g>
+  <g fill="#df8791"><ellipse cx="335" cy="141" rx="8" ry="19"/><ellipse cx="335" cy="141" rx="8" ry="19" transform="rotate(72 335 141)"/><ellipse cx="335" cy="141" rx="8" ry="19" transform="rotate(144 335 141)"/><ellipse cx="335" cy="141" rx="8" ry="19" transform="rotate(216 335 141)"/><ellipse cx="335" cy="141" rx="8" ry="19" transform="rotate(288 335 141)"/></g>
+  <circle cx="335" cy="141" r="7" fill="#efc752"/><path d="M110 300h380" stroke="#9eaa8e" stroke-width="3"/>
+</svg>

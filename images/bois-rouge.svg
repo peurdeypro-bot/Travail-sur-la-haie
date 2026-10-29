@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title">
+  <title id="title">Bois rouge</title>
+  <rect width="600" height="360" fill="#e8ecdf"/>
+  <path d="M0 292h600v68H0z" fill="#c9d5bd"/>
+  <path d="M298 300c7-62-4-108 4-172m-1 80-88-60m87 49 90-73m-90 55-22-77m39 76 60-91" fill="none" stroke="#78513d" stroke-linecap="round" stroke-width="18"/>
+  <g fill="#416b49">
+    <ellipse cx="194" cy="133" rx="64" ry="49"/><ellipse cx="240" cy="94" rx="65" ry="48"/>
+    <ellipse cx="310" cy="77" rx="73" ry="51"/><ellipse cx="384" cy="106" rx="68" ry="49"/>
+    <ellipse cx="427" cy="151" rx="64" ry="47"/><ellipse cx="199" cy="179" rx="60" ry="44"/>
+    <ellipse cx="276" cy="151" rx="78" ry="54"/><ellipse cx="360" cy="158" rx="78" ry="51"/>
+  </g>
+  <g fill="#98ad70">
+    <path d="M186 112l9 15-12 8 15 9-5 14 16-8 9 10 2-17 16-4-14-10 4-15-16 7-11-10-2 15z"/>
+    <path d="M278 60l9 15-12 8 15 9-5 14 16-8 9 10 2-17 16-4-14-10 4-15-16 7-11-10-2 15z"/>
+    <path d="M363 126l9 15-12 8 15 9-5 14 16-8 9 10 2-17 16-4-14-10 4-15-16 7-11-10-2 15z"/>
+    <path d="M246 145l9 15-12 8 15 9-5 14 16-8 9 10 2-17 16-4-14-10 4-15-16 7-11-10-2 15z"/>
+  </g>
+  <path d="M110 300h380" stroke="#9eaa8e" stroke-width="3"/>
+</svg>

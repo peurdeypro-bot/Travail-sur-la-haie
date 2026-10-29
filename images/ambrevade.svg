@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title">
+  <title id="title">Ambrevade avec ses fleurs</title>
+  <rect width="600" height="360" fill="#e8ecdf"/><path d="M0 292h600v68H0z" fill="#c9d5bd"/>
+  <path d="M300 296c-5-69-30-110-62-151m64 151c12-72 41-120 77-157m-76 158V91m-4 155c-54-45-90-58-135-64m144 57c49-43 92-54 137-55" fill="none" stroke="#648450" stroke-width="9" stroke-linecap="round"/>
+  <g fill="#78965e"><ellipse cx="235" cy="166" rx="38" ry="15" transform="rotate(35 235 166)"/><ellipse cx="371" cy="150" rx="39" ry="16" transform="rotate(-37 371 150)"/><ellipse cx="300" cy="120" rx="37" ry="15" transform="rotate(-80 300 120)"/><ellipse cx="204" cy="226" rx="38" ry="15" transform="rotate(10 204 226)"/><ellipse cx="415" cy="226" rx="38" ry="15" transform="rotate(-8 415 226)"/></g>
+  <g fill="#e7bc48"><circle cx="225" cy="106" r="10"/><circle cx="237" cy="96" r="10"/><circle cx="249" cy="106" r="10"/><circle cx="237" cy="117" r="10"/><circle cx="354" cy="92" r="10"/><circle cx="366" cy="82" r="10"/><circle cx="378" cy="92" r="10"/><circle cx="366" cy="103" r="10"/></g>
+  <path d="M110 300h380" stroke="#9eaa8e" stroke-width="3"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title">
+  <title id="title">Bois de lettres en fleurs</title>
+  <rect width="600" height="360" fill="#e8ecdf"/><path d="M0 292h600v68H0z" fill="#c9d5bd"/>
+  <path d="M300 296V156m0 84-100-61m100 28 93-83m-92 45-18-62m21 63 58-67" fill="none" stroke="#73543d" stroke-width="12" stroke-linecap="round"/>
+  <g fill="#527b50"><ellipse cx="195" cy="178" rx="45" ry="20" transform="rotate(20 195 178)"/><ellipse cx="394" cy="146" rx="48" ry="22" transform="rotate(-32 394 146)"/><ellipse cx="281" cy="143" rx="43" ry="19" transform="rotate(-70 281 143)"/><ellipse cx="361" cy="203" rx="48" ry="21" transform="rotate(20 361 203)"/><ellipse cx="238" cy="229" rx="44" ry="19" transform="rotate(15 238 229)"/></g>
+  <g fill="#f3f0dc"><circle cx="348" cy="119" r="8"/><circle cx="362" cy="110" r="7"/><circle cx="373" cy="122" r="8"/><circle cx="365" cy="136" r="7"/><circle cx="350" cy="135" r="7"/><circle cx="421" cy="156" r="7"/><circle cx="434" cy="148" r="7"/><circle cx="444" cy="160" r="7"/><circle cx="432" cy="172" r="7"/></g>
+  <path d="M110 300h380" stroke="#9eaa8e" stroke-width="3"/>
+</svg>
