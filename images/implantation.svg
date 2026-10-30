@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 390" role="img" aria-labelledby="title desc">
+  <title id="title">Principe d'implantation en quinconce</title>
+  <desc id="desc">Vue de dessus d'une bande de plantation de trois mètres de large avec trois rangées décalées de plants.</desc>
+  <defs>
+    <marker id="dimension" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto-start-reverse">
+      <path d="M0 0 8 4 0 8Z" fill="#586560"/>
+    </marker>
+  </defs>
+  <rect width="900" height="390" fill="#f9faf8"/>
+  <rect x="142" y="84" width="640" height="218" fill="#edf2eb" stroke="#9eaa9b" stroke-width="2"/>
+  <path d="M142 157H782M142 229H782" stroke="#c6d0c3" stroke-width="1.5" stroke-dasharray="6 7"/>
+  <g fill="#71866e" stroke="#fff" stroke-width="4">
+    <circle cx="196" cy="121" r="17"/><circle cx="324" cy="121" r="17"/><circle cx="452" cy="121" r="17"/><circle cx="580" cy="121" r="17"/><circle cx="708" cy="121" r="17"/>
+    <circle cx="260" cy="193" r="17"/><circle cx="388" cy="193" r="17"/><circle cx="516" cy="193" r="17"/><circle cx="644" cy="193" r="17"/><circle cx="754" cy="193" r="17"/>
+    <circle cx="196" cy="265" r="17"/><circle cx="324" cy="265" r="17"/><circle cx="452" cy="265" r="17"/><circle cx="580" cy="265" r="17"/><circle cx="708" cy="265" r="17"/>
+  </g>
+  <g fill="#1b2c29" font-family="Arial, sans-serif" font-size="16">
+    <text x="460" y="58" text-anchor="middle" font-weight="700">BANDE DE PLANTATION — VUE DE DESSUS</text>
+    <text x="460" y="340" text-anchor="middle" fill="#586560">Plants alternés d'une rangée à l'autre pour répartir les volumes</text>
+  </g>
+  <path d="M105 84V302" stroke="#586560" stroke-width="1.5" marker-start="url(#dimension)" marker-end="url(#dimension)"/>
+  <text x="76" y="198" text-anchor="middle" fill="#1b2c29" font-family="Arial, sans-serif" font-size="18" font-weight="700" transform="rotate(-90 76 198)">3 m</text>
+  <path d="M142 320H782" stroke="#586560" stroke-width="1.5" marker-start="url(#dimension)" marker-end="url(#dimension)"/>
+  <text x="462" y="369" text-anchor="middle" fill="#1b2c29" font-family="Arial, sans-serif" font-size="17" font-weight="700">25 m</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title">
+  <title id="title">Bois d’olive noir</title>
+  <rect width="600" height="360" fill="#e8ecdf"/>
+  <path d="M0 292h600v68H0z" fill="#c9d5bd"/>
+  <path d="M298 300c8-65-5-111 3-174m-1 75-83-56m80 44 80-69m-82 56-23-73m39 75 54-84" fill="none" stroke="#70513b" stroke-linecap="round" stroke-width="17"/>
+  <g fill="#4d7952">
+    <ellipse cx="198" cy="127" rx="74" ry="43"/><ellipse cx="248" cy="92" rx="70" ry="47"/>
+    <ellipse cx="315" cy="77" rx="79" ry="50"/><ellipse cx="380" cy="107" rx="74" ry="45"/>
+    <ellipse cx="419" cy="151" rx="69" ry="45"/><ellipse cx="194" cy="174" rx="65" ry="43"/>
+    <ellipse cx="273" cy="149" rx="79" ry="52"/><ellipse cx="356" cy="153" rx="82" ry="50"/>
+  </g>
+  <g fill="#91a96d">
+    <ellipse cx="211" cy="125" rx="22" ry="6" transform="rotate(18 211 125)"/>
+    <ellipse cx="293" cy="92" rx="24" ry="6" transform="rotate(-12 293 92)"/>
+    <ellipse cx="374" cy="131" rx="22" ry="6" transform="rotate(16 374 131)"/>
+    <ellipse cx="250" cy="169" rx="25" ry="6" transform="rotate(-13 250 169)"/>
+    <ellipse cx="328" cy="151" rx="24" ry="6" transform="rotate(12 328 151)"/>
+  </g>
+  <path d="M110 300h380" stroke="#9eaa8e" stroke-width="3"/>
+</svg>

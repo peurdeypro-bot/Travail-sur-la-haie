@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-labelledby="title description">
+  <title id="title">Letchi avec ses fruits</title>
+  <desc id="description">Illustration d’un arbre feuillu portant des grappes de letchis rouges.</desc>
+  <rect width="640" height="440" fill="#e7eddf"/>
+  <path d="M0 365c93-29 182 14 279-4s203-36 361 5v74H0z" fill="#c2d0b4"/>
+  <path d="M321 375c-8-86 2-152-8-226h31c-2 80 13 145 15 226z" fill="#76533c"/>
+  <path d="M327 251c-56-51-101-78-153-108l16-24c66 34 119 75 158 109zM340 222c44-54 91-91 146-127l18 25c-56 43-97 83-137 133zM326 183c-13-46-20-88-18-133l31-2c-2 50 4 86 15 123z" fill="#76533c"/>
+  <g fill="#4d7652">
+    <ellipse cx="187" cy="127" rx="96" ry="62"/>
+    <ellipse cx="271" cy="92" rx="91" ry="68"/>
+    <ellipse cx="364" cy="102" rx="97" ry="72"/>
+    <ellipse cx="457" cy="138" rx="94" ry="63"/>
+    <ellipse cx="244" cy="166" rx="99" ry="62"/>
+    <ellipse cx="382" cy="169" rx="111" ry="66"/>
+  </g>
+  <g fill="#678b5d">
+    <ellipse cx="153" cy="115" rx="54" ry="34"/>
+    <ellipse cx="301" cy="72" rx="56" ry="35"/>
+    <ellipse cx="421" cy="111" rx="58" ry="37"/>
+    <ellipse cx="331" cy="155" rx="63" ry="35"/>
+  </g>
+  <g fill="#be463d" stroke="#92352f" stroke-width="2">
+    <path d="M183 170c-19-20-16-48 5-54 21-7 36 16 28 34-7 16-18 17-33 20z"/>
+    <path d="M211 191c-20-18-15-44 6-51 22-7 36 15 28 33-7 16-19 18-34 18z"/>
+    <path d="M451 178c-19-19-15-45 6-51 22-6 35 17 26 35-8 15-19 17-32 16z"/>
+    <path d="M478 199c-20-17-15-44 6-50 22-6 35 16 26 34-8 16-19 18-32 16z"/>
+    <path d="M354 190c-20-19-16-45 6-51 22-6 35 16 26 34-8 16-19 18-32 17z"/>
+  </g>
+  <g fill="none" stroke="#d87961" stroke-width="2" opacity=".8">
+    <path d="m186 123 16 13m-8-22 13 11m-2 44 14 12m-5-21 13 11"/>
+    <path d="m455 131 15 12m-7-21 13 11m-1 48 14 12m-5-21 13 11m-157-3 15 12m-7-21 13 11"/>
+  </g>
+  <g fill="#f3f0d7">
+    <circle cx="116" cy="256" r="4"/><circle cx="533" cy="238" r="4"/><circle cx="511" cy="279" r="3"/>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title">
+  <title id="title">Lantana aux fleurs jaunes et orangées</title>
+  <rect width="600" height="360" fill="#e8ecdf"/>
+  <path d="M0 292h600v68H0z" fill="#c9d5bd"/>
+  <g fill="none" stroke="#58744d" stroke-linecap="round" stroke-width="12">
+    <path d="M300 298c-8-83-37-117-61-163m67 159c8-81 41-120 70-166m-74 170c-2-73-7-119-4-184m-2 176c-53-49-91-56-131-67m143 61c54-45 89-58 131-61"/>
+  </g>
+  <g fill="#78965e">
+    <ellipse cx="225" cy="177" rx="36" ry="17" transform="rotate(37 225 177)"/>
+    <ellipse cx="382" cy="172" rx="39" ry="18" transform="rotate(-40 382 172)"/>
+    <ellipse cx="291" cy="130" rx="37" ry="17" transform="rotate(-82 291 130)"/>
+    <ellipse cx="193" cy="238" rx="38" ry="18" transform="rotate(13 193 238)"/>
+    <ellipse cx="421" cy="230" rx="38" ry="18" transform="rotate(-12 421 230)"/>
+    <ellipse cx="346" cy="219" rx="39" ry="17" transform="rotate(28 346 219)"/>
+  </g>
+  <g fill="#f3bd46">
+    <circle cx="205" cy="115" r="12"/><circle cx="218" cy="105" r="12"/><circle cx="230" cy="116" r="12"/>
+    <circle cx="215" cy="128" r="12"/><circle cx="201" cy="128" r="12"/><circle cx="355" cy="105" r="12"/>
+    <circle cx="369" cy="96" r="12"/><circle cx="381" cy="108" r="12"/><circle cx="369" cy="120" r="12"/>
+    <circle cx="354" cy="119" r="12"/><circle cx="282" cy="80" r="12"/><circle cx="296" cy="70" r="12"/>
+    <circle cx="309" cy="82" r="12"/><circle cx="297" cy="94" r="12"/><circle cx="282" cy="94" r="12"/>
+    <circle cx="451" cy="158" r="12"/><circle cx="465" cy="148" r="12"/><circle cx="478" cy="160" r="12"/>
+    <circle cx="465" cy="172" r="12"/><circle cx="450" cy="171" r="12"/>
+  </g>
+  <g fill="#e97844">
+    <circle cx="215" cy="116" r="6"/><circle cx="369" cy="108" r="6"/><circle cx="296" cy="82" r="6"/><circle cx="465" cy="160" r="6"/>
+  </g>
+  <path d="M110 300h380" stroke="#9eaa8e" stroke-width="3"/>
+</svg>

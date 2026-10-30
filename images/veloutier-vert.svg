@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title">
+  <title id="title">Veloutier vert</title>
+  <rect width="600" height="360" fill="#e8ecdf"/><path d="M0 292h600v68H0z" fill="#c9d5bd"/>
+  <path d="M300 296V170m0 94-86-57m86 35 91-75m-88 47-25-56m24 59 58-64" fill="none" stroke="#7b6546" stroke-width="12" stroke-linecap="round"/>
+  <g fill="#6c925f" stroke="#527b50" stroke-width="2"><ellipse cx="205" cy="199" rx="41" ry="29" transform="rotate(24 205 199)"/><ellipse cx="389" cy="174" rx="43" ry="29" transform="rotate(-32 389 174)"/><ellipse cx="279" cy="164" rx="39" ry="28" transform="rotate(-65 279 164)"/><ellipse cx="356" cy="224" rx="43" ry="29" transform="rotate(20 356 224)"/><ellipse cx="244" cy="242" rx="41" ry="28"/></g>
+  <g fill="#fffefa"><circle cx="338" cy="146" r="8"/><circle cx="350" cy="138" r="8"/><circle cx="362" cy="146" r="8"/><circle cx="353" cy="157" r="8"/></g>
+  <path d="M110 300h380" stroke="#9eaa8e" stroke-width="3"/>
+</svg>

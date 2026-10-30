@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">Repères d'orientation et ensoleillement</title>
+  <desc id="desc">Schéma montrant l'ouest à gauche, l'est à droite et la course du soleil au-dessus d'une parcelle.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f8faf8"/>
+      <stop offset="1" stop-color="#e7eee8"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0 0 10 5 0 10Z" fill="#4c665a"/>
+    </marker>
+  </defs>
+  <rect width="900" height="300" fill="url(#sky)"/>
+  <path d="M0 234 Q210 218 430 234 T900 228 V300 H0Z" fill="#d9e3d4"/>
+  <path d="M165 210 Q450 20 735 210" fill="none" stroke="#9caa98" stroke-width="3" stroke-dasharray="8 9"/>
+  <circle cx="450" cy="82" r="29" fill="#d6b66f"/>
+  <g stroke="#d6b66f" stroke-width="3">
+    <path d="M450 35v-12M450 141v-12M403 82h-12M509 82h-12M417 49l-9-9M492 124l-9-9M483 49l9-9M408 124l9-9"/>
+  </g>
+  <path d="M190 215 H710" stroke="#4c665a" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="150" y="253" fill="#1b2c29" font-family="Arial, sans-serif" font-size="21" font-weight="700">OUEST</text>
+  <text x="684" y="253" fill="#1b2c29" font-family="Arial, sans-serif" font-size="21" font-weight="700">EST</text>
+  <text x="450" y="188" text-anchor="middle" fill="#586560" font-family="Arial, sans-serif" font-size="17">Course apparente du soleil</text>
+  <text x="450" y="278" text-anchor="middle" fill="#586560" font-family="Arial, sans-serif" font-size="15">Repères à confronter à l'observation réelle du terrain</text>
+</svg>

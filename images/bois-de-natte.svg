@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title">
+  <title id="title">Bois de natte à petites feuilles</title>
+  <rect width="600" height="360" fill="#e8ecdf"/>
+  <path d="M0 292h600v68H0z" fill="#c9d5bd"/>
+  <path d="M300 300c0-63-4-111 0-180m0 89-79-59m81 45 85-70m-87 55-23-75m37 69 48-84" fill="none" stroke="#73553e" stroke-linecap="round" stroke-width="18"/>
+  <g fill="#527b50">
+    <ellipse cx="199" cy="128" rx="76" ry="44"/><ellipse cx="246" cy="90" rx="70" ry="46"/>
+    <ellipse cx="311" cy="78" rx="79" ry="50"/><ellipse cx="382" cy="108" rx="75" ry="47"/>
+    <ellipse cx="421" cy="151" rx="68" ry="44"/><ellipse cx="194" cy="174" rx="65" ry="43"/>
+    <ellipse cx="273" cy="149" rx="81" ry="54"/><ellipse cx="359" cy="155" rx="82" ry="51"/>
+  </g>
+  <g fill="#b9c68a">
+    <circle cx="210" cy="119" r="4"/><circle cx="224" cy="139" r="4"/><circle cx="251" cy="95" r="4"/>
+    <circle cx="277" cy="112" r="4"/><circle cx="302" cy="75" r="4"/><circle cx="328" cy="95" r="4"/>
+    <circle cx="359" cy="117" r="4"/><circle cx="389" cy="137" r="4"/><circle cx="289" cy="154" r="4"/>
+    <circle cx="330" cy="166" r="4"/><circle cx="240" cy="176" r="4"/><circle cx="399" cy="162" r="4"/>
+  </g>
+  <path d="M110 300h380" stroke="#9eaa8e" stroke-width="3"/>
+</svg>

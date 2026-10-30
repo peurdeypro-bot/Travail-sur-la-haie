@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title">
+  <title id="title">Illustration d'un arbre pour la fiche Filaos ou Bois de rempart</title>
+  <rect width="600" height="360" fill="#e8ecdf"/>
+  <path d="M0 292h600v68H0z" fill="#c9d5bd"/>
+  <path d="M300 300V105m0 87-88-54m88 39 85-65m-85 30-35-66m35 65 50-72" fill="none" stroke="#75543e" stroke-linecap="round" stroke-width="16"/>
+  <g fill="#4d7952" stroke="#416b49" stroke-width="2">
+    <path d="M300 109c-43-32-66-34-103-27 31 25 57 35 103 34z"/>
+    <path d="M300 122c36-38 62-49 101-48-25 31-52 46-101 55z"/>
+    <path d="M299 146c-49-25-79-27-113-14 35 20 65 28 113 22z"/>
+    <path d="M300 161c40-34 70-41 107-32-29 28-59 40-107 40z"/>
+    <path d="M300 179c-44-19-75-16-107 2 38 15 67 18 107 7z"/>
+    <path d="M300 188c39-26 69-28 103-13-33 21-62 29-103 24z"/>
+    <path d="M299 109c-26-45-27-70-11-104 16 42 21 70 17 104z"/>
+    <path d="M306 110c17-47 35-67 68-83-13 43-31 69-61 91z"/>
+    <path d="M295 111c-40-33-54-57-52-96 27 35 41 61 48 99z"/>
+  </g>
+  <path d="M110 300h380" stroke="#9eaa8e" stroke-width="3"/>
+</svg>

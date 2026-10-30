@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title">
+  <title id="title">Ambaville en fleurs</title>
+  <rect width="600" height="360" fill="#e8ecdf"/><path d="M0 292h600v68H0z" fill="#c9d5bd"/>
+  <path d="M300 296V159m0 102-92-57m92 33 90-76m-89 42-24-58m25 60 59-67" fill="none" stroke="#74583f" stroke-width="12" stroke-linecap="round"/>
+  <g fill="#648556"><ellipse cx="207" cy="196" rx="44" ry="20" transform="rotate(22 207 196)"/><ellipse cx="390" cy="176" rx="46" ry="21" transform="rotate(-31 390 176)"/><ellipse cx="276" cy="157" rx="39" ry="19" transform="rotate(-70 276 157)"/><ellipse cx="354" cy="222" rx="45" ry="20" transform="rotate(20 354 222)"/><ellipse cx="242" cy="240" rx="43" ry="19"/></g>
+  <g fill="#efcf62"><circle cx="338" cy="129" r="5"/><circle cx="345" cy="121" r="5"/><circle cx="354" cy="124" r="5"/><circle cx="357" cy="134" r="5"/><circle cx="350" cy="141" r="5"/><circle cx="341" cy="138" r="5"/><circle cx="413" cy="158" r="5"/><circle cx="420" cy="150" r="5"/><circle cx="429" cy="154" r="5"/><circle cx="430" cy="164" r="5"/><circle cx="422" cy="170" r="5"/></g>
+  <path d="M110 300h380" stroke="#9eaa8e" stroke-width="3"/>
+</svg>

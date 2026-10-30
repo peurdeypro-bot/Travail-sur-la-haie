@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title">
+  <title id="title">Hibiscus aux fleurs roses</title>
+  <rect width="600" height="360" fill="#e8ecdf"/>
+  <path d="M0 292h600v68H0z" fill="#c9d5bd"/>
+  <path d="M298 300c-5-69 1-112-2-180m0 112-91-69m91 43 90-73m-87 34-32-66m24 91 52-67" fill="none" stroke="#71814d" stroke-linecap="round" stroke-width="12"/>
+  <g fill="#66865a" stroke="#4d704a" stroke-width="3">
+    <ellipse cx="203" cy="154" rx="37" ry="17" transform="rotate(32 203 154)"/>
+    <ellipse cx="389" cy="127" rx="39" ry="17" transform="rotate(-35 389 127)"/>
+    <ellipse cx="267" cy="102" rx="35" ry="16" transform="rotate(-70 267 102)"/>
+    <ellipse cx="353" cy="188" rx="39" ry="17" transform="rotate(22 353 188)"/>
+    <ellipse cx="240" cy="223" rx="39" ry="17" transform="rotate(-22 240 223)"/>
+    <ellipse cx="328" cy="88" rx="34" ry="15" transform="rotate(18 328 88)"/>
+  </g>
+  <g fill="#df8391" stroke="#bd6575" stroke-width="2">
+    <ellipse cx="245" cy="117" rx="17" ry="34" transform="rotate(-8 245 117)"/>
+    <ellipse cx="245" cy="117" rx="17" ry="34" transform="rotate(64 245 117)"/>
+    <ellipse cx="245" cy="117" rx="17" ry="34" transform="rotate(136 245 117)"/>
+    <ellipse cx="245" cy="117" rx="17" ry="34" transform="rotate(208 245 117)"/>
+    <ellipse cx="245" cy="117" rx="17" ry="34" transform="rotate(280 245 117)"/>
+    <ellipse cx="370" cy="170" rx="17" ry="34" transform="rotate(5 370 170)"/>
+    <ellipse cx="370" cy="170" rx="17" ry="34" transform="rotate(77 370 170)"/>
+    <ellipse cx="370" cy="170" rx="17" ry="34" transform="rotate(149 370 170)"/>
+    <ellipse cx="370" cy="170" rx="17" ry="34" transform="rotate(221 370 170)"/>
+    <ellipse cx="370" cy="170" rx="17" ry="34" transform="rotate(293 370 170)"/>
+  </g>
+  <circle cx="245" cy="117" r="10" fill="#e9b64e"/><circle cx="370" cy="170" r="10" fill="#e9b64e"/>
+  <path d="M110 300h380" stroke="#9eaa8e" stroke-width="3"/>
+</svg>
